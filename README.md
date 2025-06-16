@@ -4,4 +4,4 @@ The purpose of this code is to randomly search different environments for compet
 
 Sample metabolic models have been provided so that the code can be run.
 
-
+The stats folder contains more code that was used to produce the plots and statistical analysis in our paper.
